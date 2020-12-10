@@ -1,0 +1,26 @@
+2020-12-10T14:32:13.912453000 0.017391s notice: Recursively removing directory /Applications/MAMP/htdocs/nodejs-api-rethinkdb-template/rethinkdb_data/tmp
+2020-12-10T14:32:13.914185000 0.019129s notice: Initializing directory /Applications/MAMP/htdocs/nodejs-api-rethinkdb-template/rethinkdb_data
+2020-12-10T14:32:13.914315000 0.019253s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Applications/MAMP/htdocs/nodejs-api-rethinkdb-template/rethinkdb_data' did not already exist or is empty.)
+2020-12-10T14:32:13.914383000 0.019320s notice: Running rethinkdb 2.4.0 (CLANG 11.0.3 (clang-1103.0.32.62))...
+2020-12-10T14:32:13.938041000 0.042979s notice: Running on Darwin 19.6.0 x86_64
+2020-12-10T14:32:13.938185000 0.043122s notice: Loading data from directory /Applications/MAMP/htdocs/nodejs-api-rethinkdb-template/rethinkdb_data
+2020-12-10T14:32:14.252711000 0.357644s info: Automatically using cache size of 100 MB
+2020-12-10T14:32:14.252717000 0.357651s warn: Cache size does not leave much memory for server and query overhead (available memory: 905 MB).
+2020-12-10T14:32:14.252722000 0.357655s warn: Cache size is very low and may impact performance.
+2020-12-10T14:32:14.253721000 0.358655s notice: Listening for intracluster connections on port 29015
+2020-12-10T14:32:14.255535000 0.360468s notice: Listening for client driver connections on port 28015
+2020-12-10T14:32:14.255592000 0.360526s notice: Listening for administrative HTTP connections on port 8080
+2020-12-10T14:32:14.255598000 0.360531s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-12-10T14:32:14.255603000 0.360536s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-12-10T14:32:14.255608000 0.360542s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-12-10T14:32:14.255616000 0.360549s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-12-10T14:32:14.255624000 0.360557s notice: Server ready, "donkovahs_MacBook_Pro_local_moz" 1c766405-65f6-476f-8b94-ad3bc0e9d1d2
+2020-12-10T14:33:33.761650000 79.865716s warn: Received invalid clustering header from 127.0.0.1:59487, closing connection -- something might be connecting to the wrong port.
+2020-12-10T14:33:34.819278000 80.923333s warn: Received invalid clustering header from 127.0.0.1:59488, closing connection -- something might be connecting to the wrong port.
+2020-12-10T14:33:36.034702000 82.138743s warn: Received invalid clustering header from 127.0.0.1:59493, closing connection -- something might be connecting to the wrong port.
+2020-12-10T14:33:41.086229000 87.190216s warn: Received invalid clustering header from 127.0.0.1:59498, closing connection -- something might be connecting to the wrong port.
+2020-12-10T14:34:41.183957000 147.287288s warn: Received invalid clustering header from 127.0.0.1:59519, closing connection -- something might be connecting to the wrong port.
+2020-12-10T17:26:47.015260000 4118.902987s info: Table 6585f56f-1b77-4bcc-9f2d-2c1892235a31: Starting a new Raft election for term 1.
+2020-12-10T17:26:47.015981000 4118.903708s info: Table 6585f56f-1b77-4bcc-9f2d-2c1892235a31: Added replica on this server.
+2020-12-10T17:26:47.050026000 4118.937751s info: Table 6585f56f-1b77-4bcc-9f2d-2c1892235a31: This server is Raft leader for term 1. Latest log index is 0.
+2020-12-10T17:26:47.863215000 4119.750931s info: Table 6585f56f-1b77-4bcc-9f2d-2c1892235a31: Configuration is changing.
